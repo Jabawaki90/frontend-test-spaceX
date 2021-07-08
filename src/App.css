@@ -1,39 +1,8 @@
-#header {
-  background-color: aqua;
+#dateRangePicker {
   display: flex;
-  height: 100px;
-  margin: 0px;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
 }
 
-.route {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.routing {
-  margin: 10px;
-}
-
-#launches {
-  background-color: bisque;
-  display: flex;
-  height: 100px;
-  margin: 0px;
-}
-
-#ship {
-  background-color: blueviolet;
-  display: flex;
-  height: 100px;
-  margin: 0px;
-}
-
-#crew {
-  background-color: chocolate;
-  display: flex;
-  height: 100px;
-  margin: 0px;
+#launchDetail {
+  margin-top: 300px;
 }
